@@ -1,22 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The plot is easy to read with strong, functional colors, and they clearly show the axes label and the result of the Pearson test. However, providing clearer names for the axis titles and the side plots along with the units would be more informative to the viewer. Adding a title and larger font for the axis titles would also quickly inform the viewer of what they’re seeing. The plots on the top and side of the graph further illustrate the density seen in the middle of the scatter plot. There is no clear bias or deformation to the data represented in the graph.
 
+![alt text](https://github.com/DQOfficial/PUI2015_dquasney/blob/master/HW8/madinghehe.png?raw=true)
