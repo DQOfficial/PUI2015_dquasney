@@ -1,0 +1,6 @@
+GEO.id,GEO.id2,GEO.display-label,GC_RANK.target-geo-id,GC_RANK.target-geo-id2,GC_RANK.rank-label,GC_RANK.display-label,GC_RANK.display-label,rescensus42010,resbase42010,respop72010,respop72011,respop72012,respop72013,respop72014
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Rank,Geography,Geography,"April 1, 2010 - Census","April 1, 2010 - Estimates Base",Population Estimate (as of July 1) - 2010,Population Estimate (as of July 1) - 2011,Population Estimate (as of July 1) - 2012,Population Estimate (as of July 1) - 2013,Population Estimate (as of July 1) - 2014
+0100000US,,United States,1620000US1349008,1349008,164,"United States - Macon-Bibb County, Georgia","Macon-Bibb County, Georgia",$(X),,,,,,
+0100000US,,United States,1620000US0637692,0637692,303,"United States - Jurupa Valley city, California","Jurupa Valley city, California",$(X),,,,,,
+0100000US,,United States,1620000US0621230,0621230,647,"United States - Eastvale city, California","Eastvale city, California",$(X),,,,,,
+0100000US,,United States,1620000US1310944,1310944,736,"United States - Brookhaven city, Georgia","Brookhaven city, Georgia",$(X),,,,,,

@@ -1,0 +1,948 @@
+Geographic area,PopDensity2010
+"Abilene, TX",1771.80
+"Akron, OH",2412.80
+"Albany, GA",922.70
+"Albany-Schenectady-Troy, NY",2944.90
+"Albuquerque, NM",3518.60
+"Alexandria, LA",803.20
+"Allentown-Bethlehem-Easton, PA-NJ",3889.30
+"Altoona, PA",2428.70
+"Amarillo, TX",2591.40
+"Ames, IA",2343.40
+"Anchorage, AK",3006.90
+"Anderson, IN",1327.90
+"Anderson, SC",596.70
+"Ann Arbor, MI",3363.50
+"Anniston-Oxford, AL",566.60
+"Appleton, WI",1950.00
+"Asheville, NC",728.70
+"Athens-Clarke County, GA",1442.50
+"Atlanta-Sandy Springs-Marietta, GA",2173.00
+"Atlantic City-Hammonton, NJ",3412.30
+"Auburn-Opelika, AL",1220.90
+"Augusta-Richmond County, GA-SC",1098.60
+"Austin-Round Rock-San Marcos, TX",3131.50
+"Bakersfield-Delano, CA",3711.50
+"Baltimore-Towson, MD",5435.70
+"Bangor, ME",827.40
+"Barnstable Town, MA",847.10
+"Baton Rouge, LA",1603.30
+"Battle Creek, MI",1179.40
+"Bay City, MI",1780.50
+"Beaumont-Port Arthur, TX",1711.20
+"Bellingham, WA",1775.10
+"Bend, OR",1154.60
+"Billings, MT",2109.90
+"Binghamton, NY",2226.10
+"Birmingham-Hoover, AL",1314.20
+"Bismarck, ND",1802.50
+"Blacksburg-Christiansburg-Radford, VA",1228.10
+"Bloomington, IN",2331.10
+"Bloomington-Normal, IL",3046.90
+"Boise City-Nampa, ID",2310.20
+"Boston-Cambridge-Quincy, MA-NH",7980.10
+"Boulder, CO",3650.00
+"Bowling Green, KY",1730.30
+"Bremerton-Silverdale, WA",1835.90
+"Bridgeport-Stamford-Norwalk, CT",5122.40
+"Brownsville-Harlingen, TX",2842.90
+"Brunswick, GA",539.00
+"Buffalo-Niagara Falls, NY",4129.40
+"Burlington, NC",1126.70
+"Burlington-South Burlington, VT",2053.90
+"Canton-Massillon, OH",1919.90
+"Cape Coral-Fort Myers, FL",1911.30
+"Cape Girardeau-Jackson, MO-IL",1093.80
+"Carson City, NV",3285.40
+"Casper, WY",2003.60
+"Cedar Rapids, IA",1661.30
+"Champaign-Urbana, IL",4405.20
+"Charleston, WV",1033.70
+"Charleston-North Charleston-Summerville, SC",1926.00
+"Charlotte-Gastonia-Rock Hill, NC-SC",1881.30
+"Charlottesville, VA",2050.70
+"Chattanooga, TN-GA",1126.80
+"Cheyenne, WY",1817.70
+"Chicago-Joliet-Naperville, IL-IN-WI",8613.40
+"Chico, CA",2144.70
+"Cincinnati-Middletown, OH-KY-IN",2563.60
+"Clarksville, TN-KY",1151.80
+"Cleveland, TN",811.30
+"Cleveland-Elyria-Mentor, OH",3808.40
+"Coeur d'Alene, ID",1357.80
+"College Station-Bryan, TX",2804.20
+"Colorado Springs, CO",3092.50
+"Columbia, MO",1630.50
+"Columbia, SC",1428.00
+"Columbus, GA-AL",1680.80
+"Columbus, IN",1083.80
+"Columbus, OH",3186.00
+"Corpus Christi, TX",3204.00
+"Corvallis, OR",2653.20
+"Crestview-Fort Walton Beach-Destin, FL",1952.00
+"Cumberland, MD-WV",845.10
+"Dallas-Fort Worth-Arlington, TX",3909.30
+"Dalton, GA",672.90
+"Danville, IL",684.60
+"Danville, VA",794.00
+"Davenport-Moline-Rock Island, IA-IL",2218.60
+"Dayton, OH",2243.40
+"Decatur, AL",818.70
+"Decatur, IL",1730.30
+"Deltona-Daytona Beach-Ormond Beach, FL",1871.30
+"Denver-Aurora-Broomfield, CO",4803.70
+"Des Moines-West Des Moines, IA",2375.00
+"Detroit-Warren-Livonia, MI",3800.40
+"Dothan, AL",623.40
+"Dover, DE",912.70
+"Dubuque, IA",2242.70
+"Duluth, MN-WI",1377.10
+"Durham-Chapel Hill, NC",1860.40
+"Eau Claire, WI",1345.60
+"El Centro, CA",3062.60
+"Elizabethtown, KY",841.30
+"Elkhart-Goshen, IN",1369.50
+"Elmira, NY",2162.60
+"El Paso, TX",4318.30
+"Erie, PA",3298.50
+"Eugene-Springfield, OR",2787.10
+"Evansville, IN-KY",1660.10
+"Fairbanks, AK",1063.10
+"Fargo, ND-MN",2770.10
+"Farmington, NM",831.10
+"Fayetteville, NC",1694.00
+"Fayetteville-Springdale-Rogers, AR-MO",1114.80
+"Flagstaff, AZ",1348.40
+"Flint, MI",1814.20
+"Florence, SC",654.90
+"Florence-Muscle Shoals, AL",772.30
+"Fond du Lac, WI",1658.60
+"Fort Collins-Loveland, CO",2711.90
+"Fort Smith, AR-OK",832.90
+"Fort Wayne, IN",1964.20
+"Fresno, CA",4216.10
+"Gadsden, AL",664.70
+"Gainesville, FL",2330.50
+"Gainesville, GA",882.20
+"Glens Falls, NY",923.40
+"Goldsboro, NC",592.80
+"Grand Forks, ND-MN",2043.90
+"Grand Junction, CO",2015.20
+"Grand Rapids-Wyoming, MI",2330.90
+"Great Falls, MT",1857.10
+"Greeley, CO",2212.50
+"Green Bay, WI",1869.10
+"Greensboro-High Point, NC",1507.70
+"Greenville, NC",1380.90
+"Greenville-Mauldin-Easley, SC",1264.80
+"Gulfport-Biloxi, MS",1092.30
+"Hagerstown-Martinsburg, MD-WV",1299.60
+"Hanford-Corcoran, CA",2996.20
+"Harrisburg-Carlisle, PA",2446.00
+"Harrisonburg, VA",1861.90
+"Hartford-West Hartford-East Hartford, CT",3250.90
+"Hattiesburg, MS",828.00
+"Hickory-Lenoir-Morganton, NC",578.60
+"Hinesville-Fort Stewart, GA",846.50
+"Holland-Grand Haven, MI",1539.70
+"Honolulu, HI",11548.20
+"Hot Springs, AR",627.20
+"Houma-Bayou Cane-Thibodaux, LA",952.60
+"Houston-Sugar Land-Baytown, TX",4109.60
+"Huntington-Ashland, WV-KY-OH",1376.70
+"Huntsville, AL",1182.50
+"Idaho Falls, ID",1690.70
+"Indianapolis-Carmel, IN",2285.60
+"Iowa City, IA",2707.70
+"Ithaca, NY",3030.80
+"Jackson, MI",1462.80
+"Jackson, MS",1277.90
+"Jackson, TN",943.80
+"Jacksonville, FL",2158.70
+"Jacksonville, NC",962.80
+"Janesville, WI",1894.70
+"Jefferson City, MO",522.70
+"Johnson City, TN",879.10
+"Johnstown, PA",1322.10
+"Jonesboro, AR",856.90
+"Joplin, MO",872.50
+"Kalamazoo-Portage, MI",1603.70
+"Kankakee-Bradley, IL",1528.50
+"Kansas City, MO-KS",2326.10
+"Kennewick-Pasco-Richland, WA",2212.40
+"Killeen-Temple-Fort Hood, TX",2001.80
+"Kingsport-Bristol-Bristol, TN-VA",633.50
+"Kingston, NY",958.60
+"Knoxville, TN",1343.30
+"Kokomo, IN",1480.30
+"La Crosse, WI-MN",1877.90
+"Lafayette, IN",3227.70
+"Lafayette, LA",1524.50
+"Lake Charles, LA",1309.90
+"Lake Havasu City-Kingman, AZ",1143.60
+"Lakeland-Winter Haven, FL",1462.80
+"Lancaster, PA",2940.20
+"Lansing-East Lansing, MI",3222.20
+"Laredo, TX",5300.10
+"Las Cruces, NM",1782.30
+"Las Vegas-Paradise, NV",6527.20
+"Lawrence, KS",2795.50
+"Lawton, OK",1830.30
+"Lebanon, PA",2053.60
+"Lewiston, ID-WA",1443.60
+"Lewiston-Auburn, ME",1838.60
+"Lexington-Fayette, KY",2918.60
+"Lima, OH",1497.70
+"Lincoln, NE",3748.00
+"Little Rock-North Little Rock-Conway, AR",1404.30
+"Logan, UT-ID",1915.90
+"Longview, TX",876.00
+"Longview, WA",2005.70
+"Los Angeles-Long Beach-Santa Ana, CA",12113.90
+"Louisville/Jefferson County, KY-IN",2477.30
+"Lubbock, TX",3077.60
+"Lynchburg, VA",808.30
+"Macon, GA",1049.90
+"Madera-Chowchilla, CA",2391.00
+"Madison, WI",3502.20
+"Manchester-Nashua, NH",2855.80
+"Manhattan, KS",1766.30
+"Mankato-North Mankato, MN",1933.40
+"Mansfield, OH",1105.90
+"McAllen-Edinburg-Mission, TX",2083.80
+"Medford, OR",1939.40
+"Memphis, TN-MS-AR",2372.30
+"Merced, CA",2455.00
+"Miami-Fort Lauderdale-Pompano Beach, FL",7395.30
+"Michigan City-La Porte, IN",1177.30
+"Midland, TX",2684.20
+"Milwaukee-Waukesha-West Allis, WI",5257.60
+"Minneapolis-St. Paul-Bloomington, MN-WI",3383.40
+"Missoula, MT",1908.00
+"Mobile, AL",1659.30
+"Modesto, CA",4322.70
+"Monroe, LA",995.80
+"Monroe, MI",919.00
+"Montgomery, AL",1492.70
+"Morgantown, WV",2034.20
+"Morristown, TN",554.20
+"Mount Vernon-Anacortes, WA",1286.50
+"Muncie, IN",2377.00
+"Muskegon-Norton Shores, MI",1563.90
+"Myrtle Beach-North Myrtle Beach-Conway, SC",894.10
+"Napa, CA",4045.90
+"Naples-Marco Island, FL",2103.30
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1695.30
+"New Haven-Milford, CT",4007.40
+"New Orleans-Metairie-Kenner, LA",4370.20
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",31251.40
+"Niles-Benton Harbor, MI",1056.10
+"North Port-Bradenton-Sarasota, FL",2390.20
+"Norwich-New London, CT",1529.20
+"Ocala, FL",824.00
+"Ocean City, NJ",1424.60
+"Odessa, TX",2519.60
+"Ogden-Clearfield, UT",2937.40
+"Oklahoma City, OK",2568.80
+"Olympia, WA",1702.90
+"Omaha-Council Bluffs, NE-IA",3138.10
+"Orlando-Kissimmee-Sanford, FL",2774.60
+"Oshkosh-Neenah, WI",2701.80
+"Owensboro, KY",1347.40
+"Oxnard-Thousand Oaks-Ventura, CA",5542.20
+"Palm Bay-Melbourne-Titusville, FL",2152.90
+"Palm Coast, FL",1271.90
+"Panama City-Lynn Haven-Panama City Beach, FL",1496.10
+"Parkersburg-Marietta-Vienna, WV-OH",1135.90
+"Pascagoula, MS",862.80
+"Pensacola-Ferry Pass-Brent, FL",1471.90
+"Peoria, IL",1651.20
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",7773.20
+"Phoenix-Mesa-Glendale, AZ",4394.90
+"Pine Bluff, AR",847.30
+"Pittsburgh, PA",2990.80
+"Pittsfield, MA",1257.10
+"Pocatello, ID",1803.90
+"Portland-South Portland-Biddeford, ME",1471.10
+"Portland-Vancouver-Hillsboro, OR-WA",4372.60
+"Port St. Lucie, FL",1921.00
+"Poughkeepsie-Newburgh-Middletown, NY",2319.50
+"Prescott, AZ",724.50
+"Providence-New Bedford-Fall River, RI-MA",4763.70
+"Provo-Orem, UT",4270.30
+"Pueblo, CO",2676.30
+"Punta Gorda, FL",1320.80
+"Racine, WI",2905.00
+"Raleigh-Cary, NC",1850.10
+"Rapid City, SD",1170.80
+"Reading, PA",4656.80
+"Redding, CA",1334.20
+"Reno-Sparks, NV",3714.70
+"Richmond, VA",2175.70
+"Riverside-San Bernardino-Ontario, CA",4299.60
+"Roanoke, VA",1483.40
+"Rochester, MN",1549.60
+"Rochester, NY",2909.00
+"Rockford, IL",2381.40
+"Rocky Mount, NC",525.70
+"Rome, GA",723.00
+"Sacramento--Arden-Arcade--Roseville, CA",4538.50
+"Saginaw-Saginaw Township North, MI",1601.20
+"St. Cloud, MN",1260.70
+"St. George, UT",1039.00
+"St. Joseph, MO-KS",1621.50
+"St. Louis, MO-IL",2742.50
+"Salem, OR",2958.10
+"Salinas, CA",6402.30
+"Salisbury, MD",1089.80
+"Salt Lake City, UT",4563.50
+"San Angelo, TX",1905.70
+"San Antonio-New Braunfels, TX",3475.40
+"San Diego-Carlsbad-San Marcos, CA",6920.50
+"Sandusky, OH",1782.70
+"San Francisco-Oakland-Fremont, CA",12144.90
+"San Jose-Sunnyvale-Santa Clara, CA",8417.70
+"San Luis Obispo-Paso Robles, CA",2293.40
+"Santa Barbara-Santa Maria-Goleta, CA",6242.80
+"Santa Cruz-Watsonville, CA",4553.70
+"Santa Fe, NM",1770.80
+"Santa Rosa-Petaluma, CA",3253.60
+"Savannah, GA",1811.10
+"Scranton--Wilkes-Barre, PA",2889.10
+"Seattle-Tacoma-Bellevue, WA",4721.60
+"Sebastian-Vero Beach, FL",1312.00
+"Sheboygan, WI",2088.20
+"Sherman-Denison, TX",722.40
+"Shreveport-Bossier City, LA",1566.40
+"Sioux City, IA-NE-SD",2105.70
+"Sioux Falls, SD",2215.00
+"South Bend-Mishawaka, IN-MI",2015.60
+"Spartanburg, SC",799.60
+"Spokane, WA",2861.70
+"Springfield, IL",1719.10
+"Springfield, MA",3184.90
+"Springfield, MO",1434.40
+"Springfield, OH",1928.10
+"State College, PA",4366.20
+"Steubenville-Weirton, OH-WV",1008.50
+"Stockton, CA",4889.10
+"Sumter, SC",679.80
+"Syracuse, NY",2749.30
+"Tallahassee, FL",1964.20
+"Tampa-St. Petersburg-Clearwater, FL",3323.00
+"Terre Haute, IN",1173.50
+"Texarkana, TX-Texarkana, AR",921.60
+"Toledo, OH",2701.90
+"Topeka, KS",1595.30
+"Trenton-Ewing, NJ",5864.60
+"Tucson, AZ",3213.00
+"Tulsa, OK",1980.20
+"Tuscaloosa, AL",1308.20
+"Tyler, TX",1167.00
+"Utica-Rome, NY",2186.40
+"Valdosta, GA",1156.50
+"Vallejo-Fairfield, CA",4502.10
+"Victoria, TX",1729.10
+"Vineland-Millville-Bridgeton, NJ",2523.60
+"Virginia Beach-Norfolk-Newport News, VA-NC",4084.10
+"Visalia-Porterville, CA",2804.10
+"Waco, TX",1743.00
+"Warner Robins, GA",1484.60
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",6388.10
+"Waterloo-Cedar Falls, IA",1947.30
+"Wausau, WI",912.30
+"Wenatchee-East Wenatchee, WA",1520.20
+"Wheeling, WV-OH",842.00
+"Wichita, KS",2265.60
+"Wichita Falls, TX",1526.20
+"Williamsport, PA",1747.50
+"Wilmington, NC",1232.10
+"Winchester, VA-WV",1165.00
+"Winston-Salem, NC",1202.60
+"Worcester, MA",2885.20
+"Yakima, WA",2377.10
+"York-Hanover, PA",2306.40
+"Youngstown-Warren-Boardman, OH-PA",1569.80
+"Yuba City, CA",2206.10
+"Yuma, AZ",2836.30
+"Abbeville, LA",536.90
+"Aberdeen, SD",934.00
+"Aberdeen, WA",516.90
+"Ada, OK",757.20
+"Adrian, MI",846.50
+"Alamogordo, NM",987.10
+"Albany-Lebanon, OR",1420.00
+"Albemarle, NC",356.50
+"Albert Lea, MN",986.40
+"Albertville, AL",320.80
+"Alexander City, AL",90.10
+"Alexandria, MN",288.70
+"Alice, TX",874.00
+"Allegan, MI",349.90
+"Alma, MI",1052.50
+"Alpena, MI",789.30
+"Altus, OK",908.00
+"Americus, GA",276.80
+"Amsterdam, NY",1491.80
+"Andrews, TX",1956.50
+"Angola, IN",226.80
+"Arcadia, FL",407.70
+"Ardmore, OK",481.20
+"Arkadelphia, AR",473.20
+"Ashland, OH",516.60
+"Ashtabula, OH",724.50
+"Astoria, OR",982.90
+"Atchison, KS",754.80
+"Athens, OH",2950.80
+"Athens, TN",243.90
+"Athens, TX",298.30
+"Auburn, IN",412.30
+"Auburn, NY",1351.90
+"Augusta-Waterville, ME",428.30
+"Austin, MN",1860.10
+"Bainbridge, GA",190.60
+"Baraboo, WI",269.20
+"Barre, VT",741.40
+"Bartlesville, OK",1146.50
+"Bastrop, LA",646.70
+"Batavia, NY",983.90
+"Batesville, AR",117.10
+"Bay City, TX",628.50
+"Beatrice, NE",797.70
+"Beaver Dam, WI",1041.10
+"Beckley, WV",633.10
+"Bedford, IN",558.10
+"Beeville, TX",740.10
+"Bellefontaine, OH",554.60
+"Bemidji, MN",538.80
+"Bennettsville, SC",114.10
+"Bennington, VT",547.20
+"Berlin, NH-VT",116.30
+"Big Rapids, MI",738.00
+"Big Spring, TX",1073.10
+"Bishop, CA",505.10
+"Blackfoot, ID",169.50
+"Bloomsburg-Berwick, PA",1566.00
+"Bluefield, WV-VA",403.90
+"Blytheville, AR",277.50
+"Bogalusa, LA",215.80
+"Bonham, TX",189.00
+"Boone, IA",684.60
+"Boone, NC",937.50
+"Borger, TX",627.50
+"Bozeman, MT",1691.70
+"Bradford, PA",658.50
+"Brainerd, MN",191.80
+"Branson, MO",195.40
+"Brenham, TX",175.60
+"Brevard, NC",231.80
+"Brigham City, UT",929.90
+"Brookhaven, MS",295.60
+"Brookings, OR",315.10
+"Brookings, SD",612.70
+"Brownsville, TN",122.20
+"Brownwood, TX",800.90
+"Bucyrus, OH",927.90
+"Burley, ID",304.70
+"Burlington, IA-IL",1566.50
+"Butte-Silver Bow, MT",2174.80
+"Cadillac, MI",370.80
+"Calhoun, GA",393.90
+"Cambridge, MD",742.60
+"Cambridge, OH",690.30
+"Camden, AR",212.30
+"Campbellsville, KY",252.90
+"Caìon City, CO",811.00
+"Canton, IL",614.80
+"Carbondale, IL",995.50
+"Carlsbad-Artesia, NM",1092.30
+"Cedar City, UT",533.90
+"Cedartown, GA",162.50
+"Celina, OH",214.10
+"Central City, KY",123.10
+"Centralia, IL",655.50
+"Centralia, WA",460.20
+"Chambersburg, PA",922.00
+"Charleston-Mattoon, IL",1231.90
+"Chester, SC",406.90
+"Chillicothe, OH",888.20
+"Claremont, NH",169.00
+"Clarksburg, WV",567.60
+"Clarksdale, MS",1240.20
+"Clearlake, CA",613.90
+"Cleveland, MS",563.40
+"Clewiston, FL",311.10
+"Clinton, IA",1287.70
+"Clovis, NM",1744.40
+"Coffeyville, KS",672.80
+"Coldwater, MI",496.20
+"Columbia, TN",451.00
+"Columbus, MS",519.80
+"Columbus, NE",827.30
+"Concord, NH",618.70
+"Connersville, IN",1074.80
+"Cookeville, TN",515.90
+"Coos Bay, OR",739.10
+"Corbin, KY",231.70
+"Cordele, GA",254.40
+"Corinth, MS",216.70
+"Cornelia, GA",257.10
+"Corning, NY",850.80
+"Corsicana, TX",421.80
+"Cortland, NY",2378.20
+"Coshocton, OH",603.50
+"Crawfordsville, IN",698.60
+"Crescent City, CA",919.90
+"Crossville, TN",193.50
+"Crowley, LA",334.30
+"Cullman, AL",228.10
+"Culpeper, VA",322.60
+"Danville, KY",321.70
+"Daphne-Fairhope-Foley, AL",408.60
+"Decatur, IN",304.30
+"Defiance, OH",446.10
+"Del Rio, TX",1740.10
+"Deming, NM",577.30
+"DeRidder, LA",163.30
+"Dickinson, ND",1361.40
+"Dillon, SC",134.80
+"Dixon, IL",492.00
+"Dodge City, KS",435.10
+"Douglas, GA",139.50
+"Dublin, GA",299.40
+"DuBois, PA",609.70
+"Dumas, TX",1929.60
+"Duncan, OK",482.50
+"Dunn, NC",301.20
+"Durango, CO",452.70
+"Durant, OK",579.60
+"Dyersburg, TN",369.50
+"Eagle Pass, TX",2309.30
+"East Liverpool-Salem, OH",730.50
+"Easton, MD",704.10
+"East Stroudsburg, PA",726.20
+"Edwards, CO",161.40
+"Effingham, IL",203.30
+"El Campo, TX",95.90
+"El Dorado, AR",401.10
+"Elizabeth City, NC",679.70
+"Elk City, OK",80.20
+"Elko, NV",359.90
+"Ellensburg, WA",851.80
+"Emporia, KS",1403.70
+"Enid, OK",1413.90
+"Enterprise-Ozark, AL",396.20
+"Escanaba, MI",1071.90
+"Espanola, NM",176.60
+"Eufaula, AL-GA",157.60
+"Eureka-Arcata-Fortuna, CA",1439.60
+"Evanston, WY",48.50
+"Fairmont, MN",267.20
+"Fairmont, WV",921.40
+"Fallon, NV",861.70
+"Faribault-Northfield, MN",1346.30
+"Farmington, MO",751.20
+"Fergus Falls, MN",122.70
+"Fernley, NV",670.90
+"Findlay, OH",1134.00
+"Fitzgerald, GA",224.00
+"Forest City, NC",272.30
+"Forrest City, AR",312.40
+"Fort Dodge, IA",1027.50
+"Fort Leonard Wood, MO",722.80
+"Fort Madison-Keokuk, IA-MO",653.10
+"Fort Morgan, CO",837.90
+"Fort Payne, AL",111.60
+"Fort Polk South, LA",558.10
+"Fort Valley, GA",236.60
+"Frankfort, IN",1327.20
+"Frankfort, KY",801.30
+"Fredericksburg, TX",72.40
+"Freeport, IL",951.20
+"Fremont, NE",1627.40
+"Fremont, OH",1161.00
+"Gaffney, SC",331.00
+"Gainesville, TX",325.20
+"Galesburg, IL",923.40
+"Gallup, NM",318.70
+"Garden City, KS",1111.00
+"Gardnerville Ranchos, NV",984.70
+"Georgetown, SC",268.50
+"Gettysburg, PA",915.60
+"Gillette, WY",538.10
+"Glasgow, KY",194.00
+"Gloversville, NY",1527.50
+"Granbury, TX",323.10
+"Grand Island, NE",1569.10
+"Grants, NM",503.20
+"Grants Pass, OR",1157.10
+"Great Bend, KS",1020.80
+"Greeneville, TN",257.60
+"Greensburg, IN",572.40
+"Greenville, MS",1141.40
+"Greenville, OH",328.60
+"Greenwood, MS",629.30
+"Greenwood, SC",709.70
+"Grenada, MS",455.30
+"Guymon, OK",651.80
+"Hammond, LA",560.30
+"Hannibal, MO",894.70
+"Harriman, TN",258.20
+"Harrisburg, IL",600.30
+"Harrison, AR",219.50
+"Hastings, NE",724.80
+"Havre, MT",454.20
+"Hays, KS",680.40
+"Heber, UT",577.60
+"Helena, MT",512.50
+"Helena-West Helena, AR",252.00
+"Henderson, NC",772.20
+"Hereford, TX",2359.20
+"Hilo, HI",713.60
+"Hilton Head Island-Beaufort, SC",727.30
+"Hobbs, NM",1123.40
+"Homosassa Springs, FL",531.20
+"Hood River, OR",789.00
+"Hope, AR",203.60
+"Houghton, MI",713.80
+"Hudson, NY",470.70
+"Humboldt, TN",160.70
+"Huntingdon, PA",460.60
+"Huntington, IN",649.10
+"Huntsville, TX",1270.60
+"Huron, SD",762.10
+"Hutchinson, KS",1670.00
+"Hutchinson, MN",545.50
+"Indiana, PA",1833.60
+"Indianola, MS",419.90
+"Iron Mountain, MI-WI",472.00
+"Jackson, WY-ID",97.80
+"Jacksonville, IL",1073.70
+"Jacksonville, TX",286.00
+"Jamestown, ND",1103.30
+"Jamestown-Dunkirk-Fredonia, NY",1568.60
+"Jasper, IN",358.90
+"Jennings, LA",286.80
+"Jesup, GA",255.50
+"Juneau, AK",763.60
+"Kahului-Wailuku, HI",2310.80
+"Kalispell, MT",687.10
+"Kapaa, HI",554.50
+"Kearney, NE",1225.30
+"Keene, NH",383.90
+"Kendallville, IN",485.20
+"Kennett, MO",321.20
+"Kerrville, TX",626.80
+"Ketchikan, AK",582.00
+"Key West, FL",2614.90
+"Kill Devil Hills, NC",668.60
+"Kingsville, TX",1341.60
+"Kinston, NC",567.90
+"Kirksville, MO",1386.30
+"Klamath Falls, OR",1219.30
+"Kodiak, AK",831.20
+"Laconia, NH",409.70
+"La Follette, TN",353.70
+"La Grande, OR",572.30
+"LaGrange, GA",519.10
+"Lake City, FL",289.50
+"Lamesa, TX",585.30
+"Lancaster, SC",390.80
+"Laramie, WY",2499.30
+"Las Vegas, NM",470.60
+"Laurel, MS",298.40
+"Laurinburg, NC",314.40
+"Lawrenceburg, TN",121.90
+"Lebanon, MO",358.80
+"Lebanon, NH-VT",212.10
+"Levelland, TX",566.90
+"Lewisburg, PA",1098.40
+"Lewisburg, TN",453.20
+"Lewistown, PA",964.20
+"Lexington, NE",481.60
+"Lexington Park, MD",471.80
+"Liberal, KS",970.70
+"Lincoln, IL",504.60
+"Lincolnton, NC",458.80
+"Lock Haven, PA",1123.20
+"Logansport, IN",1516.00
+"London, KY",302.10
+"Los Alamos, NM",180.30
+"Lufkin, TX",589.90
+"Lumberton, NC",351.20
+"Macomb, IL",1363.50
+"Madison, IN",538.90
+"Madisonville, KY",379.20
+"Magnolia, AR",388.60
+"Malone, NY",195.40
+"Manitowoc, WI",1062.60
+"Marble Falls, TX",201.00
+"Marinette, WI-MI",517.40
+"Marion, IN",1022.40
+"Marion, OH",1920.90
+"Marion-Herrin, IL",716.70
+"Marquette, MI",1287.40
+"Marshall, MN",568.50
+"Marshall, MO",1029.00
+"Marshall, TX",237.10
+"Marshalltown, IA",927.40
+"Marshfield-Wisconsin Rapids, WI",671.10
+"Martin, TN",414.50
+"Martinsville, VA",479.30
+"Maryville, MO",833.90
+"Mason City, IA",797.20
+"Mayfield, KY",184.40
+"Maysville, KY",155.80
+"McAlester, OK",428.40
+"McComb, MS",295.70
+"McMinnville, TN",287.20
+"McPherson, KS",324.50
+"Meadville, PA",659.50
+"Menomonie, WI",366.90
+"Meridian, MS",648.10
+"Merrill, WI",510.90
+"Mexico, MO",235.20
+"Miami, OK",782.70
+"Middlesborough, KY",223.90
+"Midland, MI",1287.20
+"Milledgeville, GA",436.50
+"Minden, LA",487.30
+"Mineral Wells, TX",708.70
+"Minot, ND",1466.60
+"Mitchell, SD",586.20
+"Moberly, MO",489.90
+"Monroe, WI",273.50
+"Montrose, CO",724.80
+"Morehead City, NC",621.50
+"Morgan City, LA",1231.10
+"Moscow, ID",220.60
+"Moses Lake, WA",591.40
+"Moultrie, GA",316.60
+"Mountain Home, AR",254.00
+"Mountain Home, ID",56.70
+"Mount Airy, NC",326.90
+"Mount Pleasant, MI",1427.60
+"Mount Pleasant, TX",682.60
+"Mount Sterling, KY",128.70
+"Mount Vernon, IL",397.20
+"Mount Vernon, OH",356.30
+"Murray, KY",797.00
+"Muscatine, IA",1031.10
+"Muskogee, OK",891.80
+"Nacogdoches, TX",1129.30
+"Natchez, MS-LA",532.10
+"Natchitoches, LA",581.30
+"New Bern, NC",547.60
+"Newberry, SC",175.40
+"New Castle, IN",927.00
+"New Castle, PA",1572.60
+"New Iberia, LA",1349.40
+"New Philadelphia-Dover, OH",616.10
+"Newport, TN",181.00
+"Newton, IA",958.50
+"New Ulm, MN",1088.20
+"Nogales, AZ",769.20
+"Norfolk, NE",1087.30
+"North Platte, NE",1422.50
+"North Vernon, IN",249.50
+"North Wilkesboro, NC",191.90
+"Norwalk, OH",433.70
+"Oak Harbor, WA",987.60
+"Oak Hill, WV",268.20
+"Ocean Pines, MD",799.70
+"Ogdensburg-Massena, NY",613.30
+"Oil City, PA",808.90
+"Okeechobee, FL",391.30
+"Olean, NY",557.60
+"Oneonta, NY",1282.20
+"Ontario, OR-ID",242.80
+"Opelousas-Eunice, LA",819.10
+"Orangeburg, SC",428.50
+"Oskaloosa, IA",535.80
+"Ottawa-Streator, IL",732.00
+"Ottumwa, IA",947.00
+"Owatonna, MN",1227.20
+"Owosso, MI",899.10
+"Oxford, MS",838.40
+"Paducah, KY-IL",730.20
+"Pahrump, NV",195.80
+"Palatka, FL",272.20
+"Palestine, TX",413.10
+"Pampa, TX",1400.10
+"Paragould, AR",499.00
+"Paris, TN",285.20
+"Paris, TX",543.00
+"Parsons, KS",325.30
+"Payson, AZ",263.40
+"Pecos, TX",1008.80
+"Pella, IA",551.10
+"Pendleton-Hermiston, OR",288.00
+"Peru, IN",992.30
+"Phoenix Lake-Cedar Ridge, CA",1044.20
+"Picayune, MS",271.50
+"Pierre, SD",326.70
+"Pierre Part, LA",79.20
+"Pittsburg, KS",673.30
+"Plainview, TX",1063.60
+"Platteville, WI",271.50
+"Plattsburgh, NY",1318.20
+"Plymouth, IN",330.50
+"Point Pleasant, WV-OH",140.60
+"Ponca City, OK",844.60
+"Pontiac, IL",494.90
+"Poplar Bluff, MO",485.40
+"Portales, NM",1011.70
+"Port Angeles, WA",893.90
+"Portsmouth, OH",1077.40
+"Pottsville, PA",1812.30
+"Price, UT",465.50
+"Prineville, OR",19.60
+"Pullman, WA",2160.10
+"Quincy, IL-MO",1541.20
+"Raymondville, TX",146.60
+"Red Bluff, CA",461.00
+"Red Wing, MN",510.60
+"Rexburg, ID",2470.50
+"Richmond, IN",1458.30
+"Richmond-Berea, KY",952.90
+"Rio Grande City-Roma, TX",996.70
+"Riverton, WY",374.40
+"Roanoke Rapids, NC",473.60
+"Rochelle, IL",162.00
+"Rockingham, NC",380.30
+"Rockland, ME",254.30
+"Rock Springs, WY",768.90
+"Rolla, MO",754.90
+"Roseburg, OR",355.40
+"Roswell, NM",1163.10
+"Ruidoso, NM",120.00
+"Russellville, AR",425.80
+"Ruston, LA",393.80
+"Rutland, VT",841.00
+"Safford, AZ",517.50
+"St. Marys, GA",417.50
+"St. Marys, PA",346.30
+"Salina, KS",2113.90
+"Salisbury, NC",659.30
+"Sanford, NC",660.00
+"Sault Ste. Marie, MI",1805.00
+"Sayre, PA",515.20
+"Scottsbluff, NE",827.70
+"Scottsboro, AL",135.80
+"Scottsburg, IN",459.00
+"Seaford, DE",388.40
+"Searcy, AR",311.10
+"Sebring, FL",688.20
+"Sedalia, MO",993.50
+"Selinsgrove, PA",650.50
+"Selma, AL",761.10
+"Seneca, SC",282.10
+"Seneca Falls, NY",214.20
+"Sevierville, TN",346.20
+"Seymour, IN",784.20
+"Shawnee, OK",850.40
+"Shelby, NC",439.60
+"Shelbyville, TN",257.50
+"Shelton, WA",405.50
+"Sheridan, WY",1184.40
+"Show Low, AZ",156.60
+"Sidney, OH",1006.50
+"Sierra Vista-Douglas, AZ",1064.80
+"Sikeston, MO",379.50
+"Silver City, NM",324.30
+"Silverthorne, CO",54.70
+"Snyder, TX",246.60
+"Somerset, KY",320.40
+"Somerset, PA",458.30
+"Southern Pines-Pinehurst, NC",320.00
+"Spearfish, SD",399.60
+"Spencer, IA",339.40
+"Spirit Lake, IA",347.60
+"Starkville, MS",655.60
+"Statesboro, GA",910.90
+"Statesville-Mooresville, NC",706.10
+"Staunton-Waynesboro, VA",706.60
+"Stephenville, TX",463.40
+"Sterling, CO",179.20
+"Sterling, IL",1198.10
+"Stevens Point, WI",1095.90
+"Stillwater, OK",1676.40
+"Storm Lake, IA",272.20
+"Sturgis, MI",421.50
+"Sulphur Springs, TX",510.40
+"Summerville, GA",192.10
+"Sunbury, PA",2423.60
+"Susanville, CA",122.60
+"Sweetwater, TX",1294.00
+"Tahlequah, OK",321.20
+"Talladega-Sylacauga, AL",361.30
+"Tallulah, LA",1334.80
+"Taos, NM",91.40
+"Taylorville, IL",815.90
+"The Dalles, OR",1088.60
+"The Villages, FL",1210.60
+"Thomaston, GA",285.60
+"Thomasville, GA",409.80
+"Thomasville-Lexington, NC",608.70
+"Tiffin, OH",803.00
+"Tifton, GA",571.10
+"Toccoa, GA",242.50
+"Torrington, CT",875.20
+"Traverse City, MI",377.00
+"Troy, AL",161.10
+"Truckee-Grass Valley, CA",522.10
+"Tullahoma, TN",318.50
+"Tupelo, MS",377.30
+"Tuskegee, AL",403.20
+"Twin Falls, ID",1168.00
+"Ukiah, CA",840.40
+"Union, SC",341.20
+"Union City, TN-KY",183.00
+"Urbana, OH",364.90
+"Uvalde, TX",907.00
+"Valley, AL",351.20
+"Van Wert, OH",543.90
+"Vermillion, SD",2028.10
+"Vernal, UT",250.50
+"Vernon, TX",340.70
+"Vicksburg, MS",603.50
+"Vidalia, GA",151.70
+"Vincennes, IN",1421.30
+"Wabash, IN",791.90
+"Wahpeton, ND-MN",472.80
+"Walla Walla, WA",2337.20
+"Walterboro, SC",203.70
+"Wapakoneta, OH",616.00
+"Warren, PA",828.20
+"Warrensburg, MO",630.50
+"Warsaw, IN",534.00
+"Washington, IN",744.60
+"Washington, NC",299.90
+"Washington Court House, OH",286.50
+"Watertown, SD",1101.30
+"Watertown-Fort Atkinson, WI",779.70
+"Watertown-Fort Drum, NY",993.60
+"Wauchula, FL",81.30
+"Waycross, GA",394.60
+"Weatherford, OK",70.20
+"West Plains, MO",226.20
+"West Point, MS",667.30
+"Whitewater, WI",645.90
+"Willimantic, CT",1068.80
+"Williston, ND",1088.90
+"Willmar, MN",921.80
+"Wilmington, OH",494.20
+"Wilson, NC",1003.90
+"Winfield, KS",607.70
+"Winona, MN",1433.50
+"Woodward, OK",232.20
+"Wooster, OH",657.70
+"Worthington, MN",442.90
+"Yankton, SD",1056.90
+"Yazoo City, MS",511.20
+"Zanesville, OH",827.60
+"Adjuntas, PR",954.20
+"Coamo, PR",1939.80
+"Jayuya, PR",1018.50
+"Santa Isabel, PR",1506.20
+"Utuado, PR",1135.10
