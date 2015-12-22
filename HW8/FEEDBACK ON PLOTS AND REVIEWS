@@ -1,0 +1,55 @@
+youre reviewes were insightful and on point 10/10
+
+
+NOTES ON YOUR PLOT
+==================
+
+the plot is largely empty: remove empty space at bottom and plot
+
+the grid should extend for the full extent of the plot
+
+all in all it is a good simple plot
+
+colors are confused by color-blind viewers
+
+
+NOTE ON THE PLOTS YOU REVIEWED
+===============================
+dstarobin
+==========
+very nice plot that summarize a lot of details at once
+
+labels in the legend top left too small to read
+
+nice unobtrusive labels showing single events
+
+drop rides from the labels on the right for compactness
+
+
+consider a more compact notation for the y axis: e.g. use units of 1000 rides
+
+madinghehe
+===========
+
+
+typical plot in finance: complies to tufte's idea of small multiples
+nice seaborn plot that conveys a lot of info at once.
+
+
+x, y labels should be spelled out, not a variable name with an underscore
+
+labels too small
+
+the fit line cannot be seen over the points. consider a different color or remove the points inside the contours (which are redundant and blended anyways)
+
+
+ortrune
+========
+thick lines are not necessary and cause ambiguity when thy overlap
+
+the datapoints are sparse: the plot could be compressed on the x axis and this would aid comparison
+
+tick labels are on he small side, but not terribly small 
+
+color blindness compliant
+
